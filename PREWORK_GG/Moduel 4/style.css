@@ -1,0 +1,16 @@
+body {background: url(https://i.pinimg.com/564x/d0/37/9a/d0379a8975642999f765921730aa48e7.jpg);}
+h1 {background:black; width: 16.5%;
+    font-family: Courier New; Color:White;}
+#para1 {align-items: center; border-style: solid; 
+    border-width: 7px;
+    width: 500px; height: 300px; 
+    border-top-color: teal; border-bottom-color: teal; 
+    border-left-color: #3685C9; border-right-color: #3685C9}
+h2 {background:black; width: 5%; font-size: 25px; font-family: 'Courier New', Courier, monospace; color: white;}    
+#para2 {font-size:16px; background:black; font-family: Courier New; color: teal}
+#para3 {background: black; width: 13%; font-size: 25px; color: green;}
+h3 {background: black; font-size: 22px;  
+    font-family: Courier New; Color:White;
+    width: 13%;}
+#songs {color:#3685C9; font-size: 17px ; background:black; width: 9%;}
+h4 {color: white; font-size: 22px;background: black; width: 23%;}
